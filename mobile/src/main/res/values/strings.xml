@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">号码归属地查询</string>
+    <string name="input_tag">输入手机/电话号码</string>
+    <string name="action_settings">设置</string>
+    <string name="btn_commit">查询</string>
+    <string name="plsinput">请输入</string>
+    <string name="loading">[查询中]</string>
+    <string name="none_area">[未查询到信息]</string>
+    <string name="format_err">电话号码无效</string>
+
+</resources>
