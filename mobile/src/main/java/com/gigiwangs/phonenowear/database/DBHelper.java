@@ -62,7 +62,6 @@ public class DBHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        // db.execSQL("create table phone_location (_id INTEGER primary key,location varchar(32) not null)");
     }
 
     @Override
