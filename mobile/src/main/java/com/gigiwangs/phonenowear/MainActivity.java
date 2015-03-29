@@ -13,6 +13,10 @@ import android.widget.Toast;
 import com.gigiwangs.phonenowear.database.DBHelper;
 import android.util.Log;
 
+/*
+@AUTHOR GIGI WANG
+ */
+
 
 
 public class MainActivity extends ActionBarActivity {
